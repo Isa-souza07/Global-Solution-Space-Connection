@@ -46,5 +46,5 @@ Abaixo, evidenciamos a integração do sistema Python com o modelo de linguagem 
 ![Código de Integração da IA](PromptandArtificialIntelligence/assets/dados_missao.png)
 *Trecho do código responsável por formular o prompt de contexto e realizar a chamada ao modelo via Ollama, passando os dados processados pelo sistema lógico.*
 
-![Execução e Alerta Crítico](PromptandArtificialIntelligence/assets/alerta_critico.png)
+![Execução e Alerta Crítico](https://github.com/Isa-souza07/Global-Solution-Space-Connection/blob/main/Prompt%20and%20Artificial%20Intelligence/assets/alerta_critico.png)
 *Execução do ciclo manual com parâmetros críticos. O sistema lógico emite a pontuação de risco e, em seguida, a Inteligência Artificial processa o contexto para recomendar o plano de contingência imediato.*
