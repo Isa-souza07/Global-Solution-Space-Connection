@@ -14,7 +14,7 @@ O Mission Control AI é um sistema construído em Python que monitora e avalia o
 ## 🔗 Links Importantes
 
 - **Repositório GitHub:** [Acessar Repositório](https://github.com/Isa-souza07/Global-Solution-Space-Connection)
-- **Vídeo de Demonstração:** [Assistir no YouTube](https://youtu.be/xpTfYVj9-kw)
+- **Vídeo de Demonstração:** [Assistir no YouTube](https://youtu.be/_LKB-Ljie5E)
 
 ---
 
