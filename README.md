@@ -14,7 +14,7 @@ O Mission Control AI é um sistema construído em Python que monitora e avalia o
 ## 🔗 Links Importantes
 
 - **Repositório GitHub:** [Acessar Repositório](https://github.com/Isa-souza07/Global-Solution-Space-Connection)
-- **Vídeo de Demonstração:** [Assistir no YouTube](https://youtu.be/xpTfYVj9-kw)
+- **Vídeo de Demonstração:** [Assistir no YouTube](https://youtu.be/_LKB-Ljie5E)
 
 ---
 
@@ -43,7 +43,7 @@ O Mission Control AI é um sistema construído em Python que monitora e avalia o
 
 Abaixo, evidenciamos a integração do sistema Python com o modelo de linguagem Llama 3.2, atuando como Diretor de Controle da Missão.
 
-![Código de Integração da IA](PromptandArtificialIntelligence/assets/dados_missao.png)
+![Código de Integração da IA](https://github.com/Isa-souza07/Global-Solution-Space-Connection/blob/main/Prompt%20and%20Artificial%20Intelligence/assets/dados_missao.png)
 *Trecho do código responsável por formular o prompt de contexto e realizar a chamada ao modelo via Ollama, passando os dados processados pelo sistema lógico.*
 
 ![Execução e Alerta Crítico](https://github.com/Isa-souza07/Global-Solution-Space-Connection/blob/main/Prompt%20and%20Artificial%20Intelligence/assets/alerta_critico.png)

@@ -24,4 +24,4 @@ https://colab.research.google.com/drive/1clt2L6IpnvyFw_7yAgV5P-IsibchOqS8?usp=sh
 
 3. Pelo menu textual você pode, ver dados brutos da missão, rodar análise completa (relatório + IA), ver status do último ciclo, rodar o módulo LIDAR + IA de perfuração.
 
-Link do vídeo de demonstração: https://youtu.be/xpTfYVj9-kw
+Link do vídeo de demonstração: https://youtu.be/_LKB-Ljie5E
